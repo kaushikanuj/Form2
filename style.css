@@ -1,0 +1,20 @@
+body{
+	background-color: #ce5add;
+	margin: 0;
+	padding: 0;
+}
+#ui{
+	background-color: #fff;
+	padding: 25px;
+	margin-top: 90px;
+	border-radius: 10px;
+}
+ul{
+display: flex;
+}
+ul li{
+	list-style: none;
+}
+#ui h1{
+	margin: 0;
+}
